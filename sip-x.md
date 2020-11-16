@@ -7,7 +7,7 @@ discussions-to: https://github.com/sirenmarkets/SIPs/issues
 
 created: <date created on, in ISO 8601 (yyyy-mm-dd) format>
 requires (*optional): <SIP number(s)>
---
+---
 
 <!--You can leave these HTML comments in your merged SIP and delete the visible duplicate text guides, they will not appear and may be helpful to refer to if you edit it again. This is the suggested template for new SIPs. Note that an SIP number will be assigned by an editor. When opening a pull request to submit your SIP, please use an abbreviated title in the filename, `sip-draft_title_abbrev.md`. The title should be 44 characters or less.-->
 
