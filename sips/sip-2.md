@@ -1,7 +1,7 @@
 ---
 sip: 2
 title: Liquidity Mining Token Emission Schedule
-status: WIP
+status: Implemented
 author: yours truly, @swiss-miss
 discussions-to: https://github.com/sirenmarkets/SIPs/issues
 created: 2020-11-20
@@ -48,7 +48,7 @@ Currently there is no reward to drive liquidity to the platform. Major defi plat
 as [Uniswap](https://www.coindesk.com/uniswap-dharma-retroactive-uni-airdrop-defi-governance) and 
 [Synthetix](https://blog.synthetix.io/what-you-need-to-know-before-staking-snx-for-the-first-time/) provide rewards 
 to incentivize usage of the platform, this drives liquidity into those platforms. In order to be competitive in the defi 
-market, a grant program using the Synthetix [staking](https://github.com/Synthetixio/synthetix/blob/v2.27.2/contracts/StakingRewards.sol) and [distribution](https://github.com/Synthetixio/synthetix/blob/v2.27.2/contracts/RewardsDistribution.sol) contracts would help drive liquidity to the Siren markets pools.
+market, a grant program based on the amount of Siren AMM LP tokens held during the LPP program time interval will calculate daily reward amounts off-chain, and send SI token to recipients once the LPP program has completed.
 
 ## Copyright
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
