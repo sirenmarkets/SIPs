@@ -1,1 +1,1 @@
-When opening a pull request to submit a new SIP, please use the suggested template: https://github.com/sirenmarkets/SIPs/blob/master/sip-X.md
+When opening a pull request to submit a new EIP, please use the suggested template: https://github.com/ethereum/EIPs/blob/master/sip-template.md

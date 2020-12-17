@@ -1,35 +1,67 @@
-# SIPs - SIREN Improvement Proposals
+# SIREN Improvement Proposals (SIPs)
 
-SIREN Improvement Proposals (SIPs) describe standards for the SIREN platform, including core protocol specifications, client APIs, and contract standards.
+SIREN Improvement Proposals (SIPs) describe standards for the SIREN protocol, including core protocol specifications, client APIs, and contract standards.
+
+A browsable version of all current and draft SIPs can be found on [the official SIP site](https://sips.sirenmarkets.com/).
 
 # Contributing
 
-1.  Review [SIP-1](sips/sip-1.md).
-2.  Fork the repository by clicking "Fork" in the top right.
-3.  Add your SIP to your fork of the repository. There is a [template SIP here](sip-x.md).
-4.  Submit a Pull Request to SIREN's [SIPs repository](https://github.com/sirenmarkets/SIPs).
+ 1. Review [SIP-1](SIPS/sip-1.md).
+ 2. Fork the repository by clicking "Fork" in the top right.
+ 3. Add your SIP to your fork of the repository. There is a [template SIP here](sip-template.md).
+ 4. Submit a Pull Request to SIREN's [SIPs repository](https://github.com/sirenmarkets/SIPs).
 
-Your first PR should be a first draft of the final SIP. It must meet the formatting criteria enforced by the build (largely, correct metadata in the header). An editor will manually review the first PR for a new SIP and assign it a number before merging it. Make sure you include a `discussions-to` header with the URL to a new thread on [GitHub](https://github.com/sirenmarkets/SIPs/issues) where people can discuss the SIP as a whole.
+Your first PR should be a first draft of the final SIP. It must meet the formatting criteria enforced by the build (largely, correct metadata in the header). An editor will manually review the first PR for a new SIP and assign it a number before merging it. Make sure you include a `discussions-to` header with the URL to a discussion forum or open GitHub issue where people can discuss the SIP as a whole.
 
-If your SIP requires images, the image files should be included in a subdirectory of the `assets` folder for that SIP as follow: `assets/sip-X` (for sip **X**). When linking to an image in the SIP, use relative links such as `../assets/sip-X/image.png`.
-
-When you believe your SIP is mature and ready to progress past the WIP phase, you should ask to have your issue added to the next governance call where it can be discussed for inclusion in a future platform upgrade. If the community agrees to include it, the SIP editors will update the state of your SIP to 'Approved'.
+If your SIP requires images, the image files should be included in a subdirectory of the `assets` folder for that SIP as follows: `assets/sip-N` (where **N** is to be replaced with the SIP number). When linking to an image in the SIP, use relative links such as `../assets/sip-1/image.png`.
 
 # SIP Statuses
 
-- **WIP** - a SIP that is still being developed.
-- **Proposed** - a SIP that is ready to be reviewed in a governance call.
-- **Approved** - a SIP that has been accepted for implementation by the SIREN community.
-- **Implemented** - a SIP that has been released to mainnet.
-- **Rejected** - a SIP that has been rejected.
++ **WIP** - a SIP that is still being developed.
++ **Proposed** - a SIP that is ready to be reviewed in a governance call.
++ **Approved** - a SIP that has been accepted for implementation by the SIREN
+  community.
++ **Implemented** - a SIP that has been released to mainnet.
++ **Rejected** - a SIP that has been rejected.
 
-# Validation
+# Preferred Citation Format
 
-SIPs must pass some validation tests. The SIP repository ensures this by running tests using [html-proofer](https://rubygems.org/gems/html-proofer) and [sip_validator](https://rubygems.org/gems/sip_validator).
+The canonical URL for a SIP that has achieved draft status at any point is at https://sips.sirenmarkets.com/. For example, the canonical URL for SIP-1 is https://sips.sirenmarkets.com/SIPS/sip-1.
 
-It is possible to run the SIP validator locally:
+# Local development
 
+## Prerequisites
+
+1. Open Terminal.
+
+2. Check whether you have Ruby 2.1.0 or higher installed:
+
+```sh
+$ ruby --version
 ```
-gem install sip_validator
-sip_validator <INPUT_FILES>
+
+3. If you don't have Ruby installed, install Ruby 2.1.0 or higher.
+
+4. Install Bundler:
+
+```sh
+$ gem install bundler
 ```
+
+5. Install dependencies:
+
+```sh
+$ bundle install
+```
+
+## Build your local Jekyll site
+
+1. Bundle assets and start the server:
+
+```sh
+$ bundle exec jekyll serve
+```
+
+2. Preview your local Jekyll site in your web browser at `http://localhost:4000`.
+
+More information on Jekyll and GitHub pages [here](https://help.github.com/en/enterprise/2.14/user/articles/setting-up-your-github-pages-site-locally-with-jekyll).

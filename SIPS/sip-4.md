@@ -1,10 +1,10 @@
 ---
-sccp: 1
-title: SCCP Purpose and Guidelines
-status: Proposed
-author: Rand Hydra <@randhydra>
-discussions-to: https://github.com/sirenmarkets/SIPs/issues
-created: 2020-11-15
+  sip: 4
+  author: Rand Hydra (@randhydra)
+  comments-uri: https://gov.sirenmarkets.com/t/sccp-1-sccp-purpose-and-guidelines/24
+  status: Implemented
+  type: SCCPs
+  created: 2020-11-15
 ---
 
 ## What is an SCCP?
@@ -158,9 +158,7 @@ The SCCP document was derived heavily from the EIP Ethereum Improvement Proposal
 
 * *"This document (EIP) was derived heavily from [Bitcoin's BIP-0001] written by Amir Taaki which in turn was derived from [Python's PEP-0001]. In many places text was simply copied and modified. Although the PEP-0001 text was written by Barry Warsaw, Jeremy Hylton, and David Goodger, they are not responsible for its use..."* *
 
-November 15, 2020: SCCP-1 has been drafted and submitted as a PR.
-
-### Bibliography
+**November 15, 2020:** SCCP-1 has been drafted and submitted as part of initial commit that initialized this repository.
 
 [the SIREN GitHub]: https://github.com/sirenmarkets/SIPs/issues
 [pull request]: https://github.com/sirenmarkets/SIPs/pulls
@@ -169,5 +167,4 @@ November 15, 2020: SCCP-1 has been drafted and submitted as a PR.
 [Python's PEP-0001]: https://www.python.org/dev/peps/
 
 ## Copyright
-
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).

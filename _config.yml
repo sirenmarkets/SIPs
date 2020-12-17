@@ -13,17 +13,17 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+title: SIREN Governance
 description: >-
-  SIREN Improvement Proposals (SIPs) describe standards for the SIREN
-  platform, including core protocol specifications, client APIs, and contract
-  standards.
-url: 'https://github.com/sirenmarkets/SIPs/'
-repository: sirenmarkets/SIPs
-twitter_username: sirenprotocol
-github_username: sirenmarkets
+  The SIREN Governance portal contains SIREN Improvement Proposals (SIPs) which
+  describe standards and proposed improvements and/or changes to the SIREN
+  protocol as proposed by contributors, "SI" token holders and members of the
+  community.
+url: "https://sips.sirenmarkets.com/"
 header_pages:
-  - all-sip.html
-  - all-sccp.html
+ - all.html
+ - sips.html
+ - sccps.html
 twitter:
   card: summary
   username: sirenprotocol
@@ -31,20 +31,21 @@ twitter:
 # Build settings
 markdown: kramdown
 theme: minima
-plugins:
-  - jekyll-seo-tag
+kramdown:
+  parse_block_html: false
+  # This is the default, but be explicit as some BIPs depend on it
+  auto_ids: true
+  # This is to ensure more determistic behaviour
+  auto_id_stripping: true
 
 permalink: /:slug
 
 defaults:
-  - scope:
-      path: 'sips'
+  -
+    scope:
+      path: "SIPS"
     values:
-      layout: 'sip'
-  - scope:
-      path: 'sccp'
-    values:
-      layout: 'sccp'
+      layout: "sip"
 
 exclude:
   - Gemfile
@@ -54,5 +55,7 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
-  - sccp-x.md
-  - sip-X.md
+  - bip-template.md
+  - ISSUE_TEMPLATE.md
+  - PULL_REQUEST_TEMPLATE.md
+  - README.md
