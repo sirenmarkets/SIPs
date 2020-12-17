@@ -19,7 +19,7 @@ description: >-
   describe standards and proposed improvements and/or changes to the SIREN
   protocol as proposed by contributors, "SI" token holders and members of the
   community.
-url: "https://sips.sirenmarkets.com/"
+url: "https://sips.sirenmarkets.com"
 header_pages:
  - all.html
  - sips.html
