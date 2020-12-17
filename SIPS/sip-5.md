@@ -8,8 +8,6 @@
   created: 2020-12-17
 ---
 
-The title should be 44 characters or less.
-
 ## Simple Summary
 
 As a distributed protocol enabling the creation of decentralized option markets, there should be some kind of incentive program available for community members to partake in, should they desire to set up their own contract interfaces. Ideas include some kind of stipend in the form of SI or a share of what could be called operator fees in exchange for providing the interface that users trade on.
