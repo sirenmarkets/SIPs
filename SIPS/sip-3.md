@@ -3,7 +3,7 @@
   title: Liquidity Mining Token Emission Schedule
   author: Swiss Miss (@swiss-miss)
   comments-uri: https://gov.sirenmarkets.com/t/sip-3-collateral-integration/47
-  status: Proposed
+  status: Implemented
   type: SIPs
   created: 2020-12-05
 ---
