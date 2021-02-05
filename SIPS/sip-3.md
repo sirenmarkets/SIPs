@@ -1,6 +1,6 @@
 ---
   sip: 3
-  title: Liquidity Mining Token Emission Schedule
+  title: Collateral Integration
   author: Swiss Miss (@swiss-miss)
   comments-uri: https://gov.sirenmarkets.com/t/sip-3-collateral-integration/47
   status: Implemented
