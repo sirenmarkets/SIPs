@@ -1,7 +1,7 @@
 ---
   sip: 14
-  title: Siren Grants Program
-  author: Elon Tusk, Warren Fluffet, Swiss Miss
+  title: Siren Aqua Grants Program
+  author: Elon Tusk, Warren Fluffet, Swiss Miss, Dalakos
   comments-uri: <INSERT>
   status: Proposed
   type: SIPs
@@ -10,12 +10,14 @@
 
   ![Tuvasa-grant](https://user-images.githubusercontent.com/74500786/123841105-04c2d880-d8c4-11eb-81e6-62520d4cf25c.jpg)
 
-## What is the Siren Grants Program
+## What is the Siren Aqua Grants Program
 
-In order to promote a more vibrant community, the Siren Grants Program is proposed to push forward the decentralized development of the protocol. The goal is to provide support to projects seeking to further the development and decentralization, therefore grants will be provided to the following categories:
-- Decentralization
+In order to promote a more vibrant community, the Siren Aqua Grants Program is proposed to push forward the decentralized development of the protocol. The goal is to provide support to projects seeking to further the development and decentralization, therefore grants will be provided to the following categories:
+
 - Usability
-- Developer Tools
+- Community
+- Developer Tooling
+- Request for Proposal (RFP)
 
 These being the core focus, there should also be two categories as a catch-all, one is for Siren Foundation defined projects or Request for Proposals (RFPs) as they are formally known in the non-degen world, the other is simply for Others. The latter being a category for community driven solutions that do not fit in the standard categories. 
 
@@ -23,9 +25,9 @@ These being the core focus, there should also be two categories as a catch-all, 
 
 In order to better define the focus areas.. please keep reading..
   
-* **Decentralization**: Siren Markets is by definition a decentralized protocol. This decentralization can be defined based on several factors. One is application level integrations, [Liquity](https://www.liquity.org) is perhaps the best known example of this, in which their launch featured several application layer integrations and no-proprietary interface. Maximum distribution and decentralization will be achieved with many application intgegrations, this category aims to achieve this.
 * **Usability**: Options by definition are complex financial instruments that are understood by advanced degens. A core factor in ensuring maximum decentralization is enabling usability of the protocol. This may be defined by software abstraction layers which enable greater utility of the application such as [Ribbon Finance](https://www.ribbon.finance) that bring options to a broader audience by simplifying the user experience.
-* **Developer Tools**: Developer tools are important in order to enable greater innovation on Siren Protocol. Developer tools may be comprised of data analytics tools, command line interface tools, or other software based tooling that enables greater exploration and innovation on Siren Protocol.
+* **Community**: The SIREN community will be growing and are looking for all typed of skilled contributors to add the ecosystem. From creative design, content creation, regular Discord and Telegram discussions to being the best SIREN sea meme creators, we welcome all to apply. This is modelled off the incentives and working group model that [IndexCoop](https://gov.indexcoop.com) and [BanklessDao](https://www.bankless.community) have created compelling communities. 
+* **Developer Tooling**: Developer tools are important in order to enable greater innovation on Siren Protocol. Developer tools may be comprised of data analytics tools, command line interface tools, or other software based tooling that enables greater exploration and innovation on Siren Protocol.
 
 
 ## Submission Requirements
@@ -34,18 +36,26 @@ The submission requirements are below adapt heavily from Uniswap Grants.
 
 Applicant Name: 
 Email Address:
+Telegram or Discord Handle:
 Project Name:
 Please summarize your grant proposal in 140 characters or less:
 Total budget requested:
-Please provide a breakdown of how the budget will be deployed:
 Focus Area:
 * Usability
 * Developer Tooling
 * Decentralization
 * RFP
 * Other
+Grant Scope
+How beneficial to the SIREN ecosystem?
+Relevant Links
+Grant outcomes and success
+Budget Breakdown
+Any attachments
+Referral
+Additional Support/Questions
   
- etc. etc. Please see the following (Uniswap Grants Airtable)[https://airtable.com/shrEXXxXB1humz7VS] as a good template. 
+This has been modelled off the[Uniswap Grants Application](https://airtable.com/shrEXXxXB1humz7VS)
   
 ## Siren Grants Program Work Flow
 
@@ -77,15 +87,11 @@ issue or approval may be delayed until consensus is reached.
 
 The current SIP editors are
 
-` * Swiss Miss (@swiss-miss)`
-
-` * SIREN Tamer (@siren-tamer)`
-
 ` * Seafi (@seafi)`
 
 ` * Zareth San (@zareth-san)`
 
-` * Rand Hydra (@randhydra)`
+` * Dalakos (@dalakos8)`
 
 
 See [the revision history for further
