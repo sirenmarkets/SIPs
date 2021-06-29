@@ -10,6 +10,15 @@
 
   ![Tuvasa-grant](https://user-images.githubusercontent.com/74500786/123841105-04c2d880-d8c4-11eb-81e6-62520d4cf25c.jpg)
 
+## Context of changes to SIP-13
+The main aims of [SIP-13](https://gov.sirenmarkets.com/t/sip-13-aqua-minimal-viable-dao-mvd/239/5) were to start co-creating with working groups and community members of SI community.
+
+After hearing community feedback from Swiss Miss, we recognize that the AquaDAO may have been too confusing for our commmunity to follow. The DAO aspect can be confusing as we are yet to migrate towards Snapshot voting and the funding of the different categories had some improvements areas.
+
+Hence the rebranding of AquaDAO to Siren Aqua Grants.
+
+We will still be operating with regular Siren Community calls to coordinate working groups similar to [IndexCoop](https://gov.indexcoop.com) as we would like model our community similar to this approach.  
+
 ## What is the Siren Aqua Grants Program
 
 In order to promote a more vibrant community, the Siren Aqua Grants Program is proposed to push forward the decentralized development of the protocol. The goal is to provide support to projects seeking to further the development and decentralization, therefore grants will be provided to the following categories:
