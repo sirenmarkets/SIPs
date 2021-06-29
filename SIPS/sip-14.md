@@ -91,7 +91,7 @@ The current SIP editors are
 
 ` * Zareth San (@zareth-san)`
 
-` * Dalakos (@dalakos8)`
+` * Dalakos (@dalakos88)`
 
 
 See [the revision history for further
