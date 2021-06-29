@@ -1,6 +1,6 @@
 ---
   sip: 14
-  title: Siren Aqua Grants Program
+  title: Siren Grants Program
   author: Elon Tusk, Warren Fluffet, Swiss Miss, Dalakos
   comments-uri: <INSERT>
   status: Proposed
@@ -15,13 +15,13 @@ The main aims of [SIP-13](https://gov.sirenmarkets.com/t/sip-13-aqua-minimal-via
 
 After hearing community feedback from Swiss Miss, we recognize that the AquaDAO may have been too confusing for our commmunity to follow. The DAO aspect can be confusing as we are yet to migrate towards Snapshot voting and the funding of the different categories had some improvements areas.
 
-Hence the rebranding of AquaDAO to Siren Aqua Grants.
+Hence the rebranding of AquaDAO to Siren Grants.
 
 We will still be operating with regular Siren Community calls to coordinate working groups similar to [IndexCoop](https://gov.indexcoop.com) as we would like model our community similar to this approach.  
 
-## What is the Siren Aqua Grants Program
+## What is the Siren Grants Program
 
-In order to promote a more vibrant community, the Siren Aqua Grants Program is proposed to push forward the decentralized development of the protocol. The goal is to provide support to projects seeking to further the development and decentralization, therefore grants will be provided to the following categories:
+In order to promote a more vibrant community, the Siren Grants Program is proposed to push forward the decentralized development of the protocol. The goal is to provide support to projects seeking to further the development and decentralization, therefore grants will be provided to the following categories:
 
 - Usability
 - Community
