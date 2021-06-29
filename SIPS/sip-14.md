@@ -8,6 +8,8 @@
   created: 2021-06-28
 ---
 
+  ![Tuvasa-grant](https://user-images.githubusercontent.com/74500786/123841105-04c2d880-d8c4-11eb-81e6-62520d4cf25c.jpg)
+
 ## What is the Siren Grants Program
 
 In order to promote a more vibrant community, the Siren Grants Program is proposed to push forward the decentralized development of the protocol. The goal is to provide support to projects seeking to further the development and decentralization, therefore grants will be provided to the following categories:
