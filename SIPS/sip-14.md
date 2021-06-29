@@ -3,7 +3,7 @@
   title: Siren Grants Program
   author: Elon Tusk, Warren Fluffet, Swiss Miss
   comments-uri: <INSERT>
-  status: Implemented
+  status: Proposed
   type: SIPs
   created: 2021-06-28
 ---
@@ -20,9 +20,10 @@ These being the core focus, there should also be two categories as a catch-all, 
 ## What are the goals for the categories?
 
 In order to better define the focus areas.. please keep reading..
-* Decentralization: Siren Markets is by definition a decentralized protocol. This decentralization can be defined based on several factors. One is application level integrations, [Liquity](https://www.liquity.org) is perhaps the best known example of this, in which their launch featured several application layer integrations and no-proprietary interface. Maximum distribution and decentralization will be achieved with many application intgegrations, this category aims to achieve this.
-* Usability: Options by definition are complex financial instruments that are understood by advanced degens. A core factor in ensuring maximum decentralization is enabling usability of the protocol. This may be defined by software abstraction layers which enable greater utility of the application such as [Ribbon Finance](https://www.ribbon.finance) that bring options to a broader audience by simplifying the user experience.
-* Developer Tools: Developer tools are important in order to enable greater innovation on Siren Protocol. Developer tools may be comprised of data analytics tools, command line interface tools, or other software based tooling that enables greater exploration and innovation on Siren Protocol.
+  
+* **Decentralization**: Siren Markets is by definition a decentralized protocol. This decentralization can be defined based on several factors. One is application level integrations, [Liquity](https://www.liquity.org) is perhaps the best known example of this, in which their launch featured several application layer integrations and no-proprietary interface. Maximum distribution and decentralization will be achieved with many application intgegrations, this category aims to achieve this.
+* **Usability**: Options by definition are complex financial instruments that are understood by advanced degens. A core factor in ensuring maximum decentralization is enabling usability of the protocol. This may be defined by software abstraction layers which enable greater utility of the application such as [Ribbon Finance](https://www.ribbon.finance) that bring options to a broader audience by simplifying the user experience.
+* **Developer Tools**: Developer tools are important in order to enable greater innovation on Siren Protocol. Developer tools may be comprised of data analytics tools, command line interface tools, or other software based tooling that enables greater exploration and innovation on Siren Protocol.
 
 
 ## Submission Requirements
@@ -41,36 +42,15 @@ Focus Area:
 * Decentralization
 * RFP
 * Other
-Please provide an explanation of why this applies to the focus area:
-Team description:
-Team github and examples of prior work:
-Grant scope:
-- What are you going to make?
-- How does this project benefit the greater Siren Markets ecosystem?
-- Relevant information or links?
-
-
-Project goals & success factors:
-What are you hoping to accomplish with this grant scope How do you define success for this project? How do you measure success for the grant?
-Project roadmap & milestones:
-What do the next 3-6 months look like? Include any major milestones that show progress towards the end goal.
-Challenges:
-Have you come across any obstacles thus far? If so, how have you attempted to tackle these issues? Have you been successful in overcoming them? 
-Budget breakdown:
-Referral:
-How did you hear about us? Did someone refer you or did you find us? E.g. twitter, website, newsletter, etc...
-
-Additional support requests 
-Aside from funding and financial support, are there other resources you would need to be successful?
-Additional info (feel free to share anything else you feel might help your application!) 
-
+  
+ etc. etc. Please see the following (Uniswap Grants Airtable)[https://airtable.com/shrEXXxXB1humz7VS] as a good template. 
+  
 ## Siren Grants Program Work Flow
 
 The Siren Grants Program will follow the SIP process as all proposals must go through a vote. 
 [ WIP ] -> [ PROPOSED ] -> [ APPROVED ] -> [ IMPLEMENTED ] X [ REJECTED ] 
-```
 
-Each status change is requested by the SIP author and reviewed by the SIP
+Each status change is requested by the grants author and reviewed by the SIP
 editors. Use a pull request to update the status. Please include a link to where
 people should continue discussing your SIP. The SIP editors will process these
 requests as per the conditions below.
@@ -105,51 +85,6 @@ The current SIP editors are
 
 ` * Rand Hydra (@randhydra)`
 
-## SIP Editor Responsibilities
-
-For each new SIP that comes in, an editor does the following:
-
-- Read the SIP to check if it is ready: sound and complete. The ideas must make
-  technical sense, even if they don't seem likely to get to final status.
-- The title should accurately describe the content.
-- Check the SIP for language (spelling, grammar, sentence structure, etc.),
-  markup (Github flavored Markdown), code style
-
-If the SIP isn't ready, the editor will send it back to the author for revision,
-with specific instructions.
-
-Once the SIP is ready for the repository, the SIP editor will:
-
-- Assign a SIP number (generally the PR number or, if preferred by the author,
-  the Issue # if there was discussion in the Issues section of this repository
-about this SIP)
-
-- Merge the corresponding pull request
-
-- Send a message back to the SIP author with the next step.
-
-Many SIPs are written and maintained by developers with write access to the
-SIREN codebase. The SIP editors monitor SIP changes, and correct any structure,
-grammar, spelling, or markup mistakes we see.
-
-The editors don't pass judgment on SIPs. We merely do the administrative and
-editorial part.
-
-## History
-
-The SIP document was derived heavily from the EIP Ethereum Improvement Proposal
-document in many places text was simply copied and modified. Any comments about
-the SIP document should be directed to the SIP editors. The history of the EIP
-is quoted below from the EIP document for context:
-
-* *"This document (EIP) was derived heavily from [Bitcoin's BIP-0001] written by
-  Amir Taaki which in turn was derived from [Python's PEP-0001]. In many places
-text was simply copied and modified. Although the PEP-0001 text was written by
-Barry Warsaw, Jeremy Hylton, and David Goodger, they are not responsible for its
-use..."* *
-
-**November 15, 2020:** SIP 1 has been drafted and submitted as part of initial
-commit that initialized this repository.
 
 See [the revision history for further
 details](https://github.com/sirenmarkets/SIPs), which is also available by
