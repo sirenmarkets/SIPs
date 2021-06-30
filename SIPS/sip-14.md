@@ -44,25 +44,25 @@ In order to better define the focus areas.. please keep reading..
 The submission requirements are below adapt heavily from Uniswap Grants.
 
 Applicant Name: 
-Email Address:
-Telegram or Discord Handle:
-Project Name:
+Email Address: 
+Telegram or Discord Handle: 
+Project Name: 
 Please summarize your grant proposal in 140 characters or less:
-Total budget requested:
+Total budget requested: 
 Focus Area:
 * Usability
 * Developer Tooling
 * Decentralization
 * RFP
-* Other
-Grant Scope
-How beneficial to the SIREN ecosystem?
-Relevant Links
-Grant outcomes and success
-Budget Breakdown
-Any attachments
-Referral
-Additional Support/Questions
+* Other Grant Scope 
+
+How beneficial to the SIREN ecosystem? 
+Relevant Links:
+Grant outcomes and success:
+Budget Breakdown:
+Any attachments:
+Referral:
+Additional Support/Questions:
   
 This has been modelled off the[Uniswap Grants Application](https://airtable.com/shrEXXxXB1humz7VS)
   
