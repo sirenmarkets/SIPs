@@ -5,7 +5,7 @@
   comments-uri: https://gov.sirenmarkets.com/t/sip-7-si-token-distribution-event/146
   status: Proposed
   type: SIPs
-  created: 2020-02-17
+  created: 2021-02-17
 ---
 
 
