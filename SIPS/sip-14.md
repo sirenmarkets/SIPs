@@ -2,7 +2,7 @@
   sip: 14
   title: Siren Grants Program
   author: Elon Tusk, Warren Fluffet, Swiss Miss, Dalakos
-  comments-uri: <INSERT>
+  comments-uri: https://gov.sirenmarkets.com/t/sip-14-siren-grants-program/251
   status: Proposed
   type: SIPs
   created: 2021-06-28
