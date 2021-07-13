@@ -3,7 +3,7 @@
   title: $SI Token Distribution Event
   author: ChadoftheSea (@chadofthesea)
   comments-uri: https://gov.sirenmarkets.com/t/sip-7-si-token-distribution-event/146
-  status: Proposed
+  status: Implemented
   type: SIPs
   created: 2020-02-17
 ---
