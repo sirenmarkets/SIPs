@@ -2,15 +2,15 @@
   sip: 16
   title: Layer 2 Solutions for SIREN 
   author: Dalakos
-  comments-uri: [To Add]
+  comments-uri: https://gov.sirenmarkets.com/t/sip-16-layer-2-solutions-for-siren/262
   status: Proposed
   type: SIPs
   created: 2021-07-29
 ---
 
-[ADD IMAGE]
+![sip16](https://gov.sirenmarkets.com/uploads/default/original/1X/6b0ba4aa0a4dadb8c6173b328bf9ae82575538e5.jpeg)
  
-## What is the Siren Grants Program
+# Layer 2 Solutions for SIREN
 
 SIREN’s north star is mass adoption and usability of DeFi Options. This requires new and existing traders to onboard, test and utilise the protocol with minimum friction (i.e. efficient gas costs + user experience). 
 
