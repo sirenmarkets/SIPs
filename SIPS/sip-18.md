@@ -3,7 +3,7 @@
   title: Shifting Liquidity Towards Utilization
   author: Seafi (@seafi)
   comments-uri: [To Add]
-  status: Proposed
+  status: Implemented
   type: SIPs
   created: 2021-08-31
 ---
